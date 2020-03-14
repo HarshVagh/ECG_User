@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "12180012219",
+    "firebase_url": "https://ecg-user-4519f.firebaseio.com",
+    "project_id": "ecg-user-4519f",
+    "storage_bucket": "ecg-user-4519f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12180012219:android:3dd2e44ef0267d188fbd9e",
+        "android_client_info": {
+          "package_name": "com.example.ecg_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12180012219-o03dgjeblb06pvq5841nu7bthmt18gif.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO8NhUlkMyzhNnxfZdb3m-i254FC864mc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12180012219-o03dgjeblb06pvq5841nu7bthmt18gif.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
